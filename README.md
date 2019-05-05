@@ -18,8 +18,8 @@ A macro for Mortal Kombat 11 that automatically runs towers (currently just the 
 * Do whatever you feel like while the bot runs the survivor tower over and over again.
 
 # Notes:
-You may need to turn on controller emulation if you want to use a ps4 controller separately on the PC running this, or if you don't have a ps4 controller handy; refer to the documentation on "EmulateController" on the PS4Macro repository for how to do so.
+You may need to turn on controller emulation if you want to use a ps4 controller separately on the PC running this, or if you don't have a ps4 controller handy; [refer to the documentation on "EmulateController" on the PS4Macro repository for how to do so.](https://github.com/komefai/PS4Macro#settings)
 
 If your PC goes to sleep, or if your connection is lost, etc., the macro will stop working.
 
-You can set up PS4Macro to automatically load a file on startup; this saves you a File>Open step if you plan on using this frequently.
+You can set up PS4Macro to [automatically load a file on startup with the StartupFile setting/argument](https://github.com/komefai/PS4Macro#settings); this saves you a File>Open step if you plan on using this frequently.
