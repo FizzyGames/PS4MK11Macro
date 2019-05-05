@@ -3,7 +3,7 @@ A macro for Mortal Kombat 11 that automatically runs towers (currently just the 
 
 # Setup
 * Install and set up PS4 remote play from the official site https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html.
-* Download and unzip PS4Macro from here: https://github.com/komefai/PS4Macro.
+* Download and unzip the latest version of PS4Macro from here: https://github.com/komefai/PS4Macro/releases.
 * Download the latest release of this plugin from the releases page (or build it from source).
 * Run the PS4 remote play app, then run PS4Macro.
 * On PS4Macro, click File>Open and then open the PS4MK11Macro DLL.
