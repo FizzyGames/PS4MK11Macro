@@ -1,7 +1,7 @@
-﻿using MK11Macro.Properties;
+﻿using PS4MK11Macro.Properties;
 using PS4MacroAPI;
 
-namespace MK11Macro
+namespace PS4MK11Macro
 {
     public class CharacterSelectScorpion : Scene
     {

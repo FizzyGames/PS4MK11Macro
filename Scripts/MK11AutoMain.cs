@@ -1,10 +1,10 @@
-﻿using MK11Macro.Properties;
+﻿using PS4MK11Macro.Properties;
 using PS4MacroAPI;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
 
-namespace MK11Macro
+namespace PS4MK11Macro
 {
     public class MK11AutoMain : ScriptBase
     {
@@ -34,6 +34,10 @@ namespace MK11Macro
 
         public override void Update()
         {
+            //Putting this in here because apparently the
+            //app will frequently double-register on screens
+            //when the console is not enabled; need to review further.
+            System.Threading.Thread.Sleep(20);
             HandleScenes(x=>
             {
                 Console.WriteLine(x.Name);

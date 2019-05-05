@@ -1,9 +1,9 @@
-﻿using MK11Macro.Properties;
+﻿using PS4MK11Macro.Properties;
 using PS4MacroAPI;
 using PS4MacroAPI.Internal;
 using System.Drawing;
 
-namespace MK11Macro
+namespace PS4MK11Macro
 {
     public static class AllMatchedValues
     {

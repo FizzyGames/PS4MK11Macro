@@ -2,9 +2,9 @@
 using PS4MacroAPI;
 using System.Drawing;
 using System;
-using MK11Macro.Properties;
+using PS4MK11Macro.Properties;
 
-namespace MK11Macro
+namespace PS4MK11Macro
 {
     public class CharacterSelectNoob : Scene
     {

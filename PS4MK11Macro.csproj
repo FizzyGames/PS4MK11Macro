@@ -7,8 +7,8 @@
     <ProjectGuid>{82EBCE34-327B-49F1-8C88-FCF6F491F8CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MK11Auto</RootNamespace>
-    <AssemblyName>MK11Auto</AssemblyName>
+    <RootNamespace>PS4MK11Macro</RootNamespace>
+    <AssemblyName>PS4MK11Macro</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -72,6 +72,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" "C:\Users\Chandler\Documents\ps4macro\mk11auto\"</PostBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
   </PropertyGroup>
 </Project>

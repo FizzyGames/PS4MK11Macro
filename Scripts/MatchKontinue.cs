@@ -1,8 +1,8 @@
-﻿using MK11Macro.Properties;
+﻿using PS4MK11Macro.Properties;
 using PS4MacroAPI;
-using static MK11Macro.AllMatchedValues;
+using static PS4MK11Macro.AllMatchedValues;
 
-namespace MK11Macro
+namespace PS4MK11Macro
 {
     internal class MatchKontinue : Scene
     {
